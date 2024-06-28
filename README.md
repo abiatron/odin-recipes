@@ -25,3 +25,9 @@ I'm gonna put to practice some of the basisc to create a html document (webpage)
 		3 recipes each one with a web page
 			Containing a previous and next recipe button
 			Principal site button
+
+			IMPORTAN!!!!!!!!!!
+
+			IF YOU'RE CREATING WEB PAGES THAT WILL FOLLOW THE SAME PATTERN YOU'D LIKELY WANT TO CREATE A MODEL ONCE AND THEN COPY AND PASTE IT
+			LATER SO YOU CAN FILL IT WITH THE INFO THAT DIFFERENTIATE IT FROM THE OTHERS
+
