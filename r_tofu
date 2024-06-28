@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TOFU</title>
+</head>
+<body>
+    <!-- <a>Main page stays as it is -->
+  <h1>Tofu_____________<a href="./main_page.html">MAIN PAGE</a></h1>
+        
+      <h3>Meat without bone</h3>
+      <p>We´re all into tofu, and when thinking about it we all have a different kind of tofu in mind. Good thing about this tofu is that gets
+        the best of each one.With basic ingredientes and getting the best of each one this will be your <em>new favorite tofu recipe</em>
+        People use to say tha tofu is meat without bone. Funny! isn't? Let try to make that kind of meat</p>
+        
+
+    <h2>WHAT ARE YOU GOING TO NEED?</h2>
+      <ol>
+        <li>250 g soja amarilla</li>
+        <li>2 cucharadas nigari</li>
+        <li>Agua</li>
+    </ol>
+
+    <h2>DIRECTIONS</h2>
+<dl>
+    <dt><strong>1- OVEN</strong></dt>
+    <dd>Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a large baking sheet with cooking spray.</dd>
+    
+  <dt><strong>2- </strong></dt>
+    <dd>hisk soy sauce, agave, sesame oil, garlic, and ginger together in a bowl until evenly combined.</dd>     
+    
+  <dt><strong>3- Dry tofu</strong></dt>
+    <dd>ently press tofu pieces to release as much water as possible.</dd>
+    
+  <dt><strong>4- Getting tofu ready</strong></dt>
+    <dd>Arrange tofu on the prepared baking sheet and brush with 1/2 of the soy mixture.</dd>
+    
+  <dt>5- Baking<strong></strong></dt>
+    <dd>Bake tofu in the preheated oven for 30 minutes.</dd>
+</dl>
+
+
+            
+
+
+    <p><strong><a href="./receta_3.html">PREV</a> <a href="./receta_2.html">NEXT</a></strong></p>
+
+    
+</body>
+</html>
